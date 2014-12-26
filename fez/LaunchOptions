@@ -1,0 +1,10 @@
+﻿launchOptions type="Common.LaunchOptions, Common" {
+	forceWindowed false
+	disableGamepad false
+	force60Hz true
+	singlethreadedMode false
+	disableLighting false
+	disableSteamworks false
+	disablePauseOnUnfocus false
+	powerSavingMode false
+}

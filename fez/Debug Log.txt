@@ -1,0 +1,28 @@
+(10:58:07.890) [OpenAL] Context created
+(10:58:07.893) [OpenAL] Available mono sources : 255
+(10:58:07.915) [OpenAL] Sound manager initialized!
+(10:58:07.924) [Version] INFORMATION : 1.11, Build Date : 2014-06-24 오후 3:22
+(10:58:08.602) [MonoGame] INFORMATION : OpenGL version 4.3.12618 Compatibility Profile Context 13.251.9001.1001
+(10:58:08.605) [MonoGame] INFORMATION : Vendor is ATI Technologies Inc.
+(10:58:08.608) [MonoGame] INFORMATION : GLSL version 4.30
+(10:58:08.612) [MonoGame] INFORMATION : Max uniforms : 4096 in vertex, 4096 in fragment
+(10:58:09.096) [SettingsManager] INFORMATION : Screen set to {Width:1280 Height:720 Format:Color RefreshRate60}
+(10:58:09.099) [SettingsManager] INFORMATION : Backbuffer is 1280x720
+(10:58:10.158) [Intro] INFORMATION : First draw done!
+(10:58:11.511) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(10:58:12.269) [StaticPreloader] INFORMATION : Music library initialized.
+(10:58:12.291) [StaticPreloader] INFORMATION : Volume levels loaded.
+(10:58:12.417) [StaticPreloader] INFORMATION : Animations filled.
+(10:58:12.421) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(10:58:12.424) [StaticPreloader] INFORMATION : World map pre-initialized.
+(10:58:12.427) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(10:58:12.907) [Intro] INFORMATION : Preloading complete.
+(10:58:13.468) [Intro] INFORMATION : Changing Intro Screen to : Polytron
+(10:58:16.688) [Intro] INFORMATION : Changing Intro Screen to : Trapdoor
+(10:58:18.556) [Intro] INFORMATION : Changing Intro Screen to : TrixelEngine
+(10:58:21.027) [Intro] INFORMATION : Changing Intro Screen to : SaveIndicator
+(10:58:24.038) [Intro] INFORMATION : Changing Intro Screen to : Fez
+(10:58:35.472) [Intro] INFORMATION : Changing Intro Screen to : Zoom
+(10:58:39.409) [Intro] INFORMATION : Changing Intro Screen to : SignInChooseDevice
+(10:58:39.441) [Intro] INFORMATION : Changing Intro Screen to : MainMenu
+(10:58:48.838) [FEZ] INFORMATION : Exiting.
