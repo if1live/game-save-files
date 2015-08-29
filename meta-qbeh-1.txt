@@ -1,0 +1,3 @@
+# http://steamcommunity.com/app/252550/discussions/0/540744937520773995/
+# C:\Users\YourName\AppData\LocalLow\Liquid Flower\Qbeh_1\Profiles
+qbeh-1/profile1.qbh -> {{HOME}}/AppData/LocalLow/Liquid Flower/Qbeh_1/Profiles/profile1.qbh
