@@ -1,0 +1,2 @@
+postal-2-paradise-lost/PLSave -> {{STEAM_COMMON}/POSTAL2Complete/Paradise Lost/PLSave
+postal-2-paradise-lost/System -> {{STEAM_COMMON}/POSTAL2Complete/Paradise Lost/System
