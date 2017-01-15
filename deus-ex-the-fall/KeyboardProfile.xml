@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InputProfile>
+  <Keyboard>
+    <Key name="Up" alt="UpArrow">W</Key>
+    <Key name="Down" alt="DownArrow">S</Key>
+    <Key name="Left" alt="LeftArrow">A</Key>
+    <Key name="Right" alt="RightArrow">D</Key>
+    <Key name="WalkToggle" alt="None">CapsLock</Key>
+    <Key name="Walk" alt="None">LeftShift</Key>
+    <Key name="CoverMove" alt="None">Space</Key>
+    <Key name="CrouchToggle" alt="None">C</Key>
+    <Key name="Crouch" alt="None">LeftControl</Key>
+    <Key name="Interact" alt="None">E</Key>
+    <Key name="Fire" alt="None">Mouse0</Key>
+    <Key name="Cover" alt="None">Mouse1</Key>
+    <Key name="Reload" alt="None">R</Key>
+    <Key name="Grenade" alt="Mouse2">G</Key>
+    <Key name="Takedown" alt="None">Q</Key>
+    <Key name="Item" alt="None">F</Key>
+    <Key name="Energy" alt="None">X</Key>
+    <Key name="Health" alt="None">Z</Key>
+    <Key name="Holster" alt="None">H</Key>
+    <Key name="Cloak" alt="None">F1</Key>
+    <Key name="Armor" alt="None">F2</Key>
+    <Key name="Xray" alt="None">F3</Key>
+    <Key name="Dash" alt="None">F4</Key>
+    <Key name="Augs" alt="None">O</Key>
+    <Key name="Inventory" alt="None">I</Key>
+    <Key name="Missions" alt="K">U</Key>
+    <Key name="Map" alt="M">P</Key>
+    <Key name="Logs" alt="LeftBracket">L</Key>
+    <Key name="Pause" alt="None">Escape</Key>
+    <Key name="Save" alt="None">F5</Key>
+    <Key name="Load" alt="None">F8</Key>
+  </Keyboard>
+</InputProfile>
