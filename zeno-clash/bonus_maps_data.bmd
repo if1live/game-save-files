@@ -1,0 +1,13 @@
+"bonus_map_saved_data"
+{
+	"bonusfiles"
+	{
+		"scripts/challenges/challenges.bns"
+		{
+			"bonus_map_tower5"
+			{
+				"lock"		"0"
+			}
+		}
+	}
+}

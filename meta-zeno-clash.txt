@@ -1,0 +1,3 @@
+# http://steamcommunity.com/app/224760/discussions/0/864975249485075189/
+# Windows Key + R > %appdata% > Fez
+zeno-clash -> {{STEAM_COMMON}}/ZenoClash/zenozoik/SAVE
