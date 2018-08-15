@@ -1,0 +1,2 @@
+# https://www.reddit.com/r/superhot/comments/47vh2j/where_are_the_save_files_of_superhot/
+superhot -> {{HOME}}/AppData/LocalLow/SUPERHOT_Team/SUPERHOT_VR
