@@ -1,0 +1,1 @@
+doom-reboot -> {{HOME}}/Saved Games/id Software/DOOM/base/savegame.user
