@@ -1,0 +1,2 @@
+# https://support.syberia3.com/en/support/solutions/articles/23000006981-syberia-3-savegames
+syberia3 -> {{HOME}}/AppData/LocalLow/Microids/Syberia3
